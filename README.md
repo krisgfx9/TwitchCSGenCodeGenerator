@@ -3,7 +3,7 @@ What it does is, it monitors your chat and whenever a Watcher sends a Steam Insp
 Hence it saves you Infinite ammount of time when Streaming.
 
 # How To Use It
-Either read this or watch the YouTube Tutorial. (I know Everyone is gonna watch)
+Either read this or watch the [YouTube](https://www.youtube.com/watch?v=Gb9L_reRgjA&ab_channel=KrisGFX) Tutorial. (I know Everyone is gonna watch)
 1. First click on that Green Button on the top left which says **CODE** and click downlaod Zip.
 2. Extract the file to some folder and then follow the download section.
 
